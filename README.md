@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning _Django, Python, HTML, CSS_
 - 🔭 I’m currently working on _Like Lion 8th_
-  
+        
 - 😄 Pronouns: Passion and Fashion
 - ⚡ Fun fact: in Guangzhou, China 6 years
   
