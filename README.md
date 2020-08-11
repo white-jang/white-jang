@@ -5,6 +5,7 @@
 <br>
 - 😄 Pronouns: _Passion and Fashion_
 - ⚡ Fun fact: _in Guangzhou, China 6 years_
+
 <br><br>
 <div align=center>
 
