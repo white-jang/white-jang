@@ -5,7 +5,7 @@
 - 😄 Pronouns: _Passion and Fashion_
 - ⚡ Fun fact: _in Guangzhou, China 6 years_
 
-<br><br>
+<br>
 <div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=white-jang&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
