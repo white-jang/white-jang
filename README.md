@@ -10,5 +10,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=white-jang&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=white-jang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
