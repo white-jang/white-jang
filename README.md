@@ -4,6 +4,7 @@
 - 👩‍💻 I’m currently working on _Like Lion 8th_
 - 😄 Pronouns : _Passion and Fashion_
 - ⚡ Fun fact : _in Guangzhou, China 6 years_
+- 📝 I'm currently studying _TOEIC_
 
 <br>
 <div align=center>
