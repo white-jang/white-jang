@@ -6,6 +6,7 @@
 - ⚡ Fun fact : _in Guangzhou, China 6 years_
 - 📝 I'm currently studying _TOEIC_
 
+
 <br>
 <div align=center>
 
