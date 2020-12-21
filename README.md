@@ -5,8 +5,8 @@
 - 😄 Pronouns : _Passion and Fashion_
 - ⚡ Fun fact : _in Guangzhou, China 6 years_
 - 📝 I'm currently studying _JS_  
-  
-**notion link** : https://www.notion.so/remarkablewhite/White-151ace3ed5b54446958ae2bc83092788
+- 🌝 [Notion link](https://www.notion.so/remarkablewhite/White-151ace3ed5b54446958ae2bc83092788)  
+
 
 <br>
 <div align=center>
