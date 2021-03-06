@@ -8,7 +8,7 @@
 - 😎 [Notion link](https://www.notion.so/remarkablewhite/White-151ace3ed5b54446958ae2bc83092788)  
 - 🥳 [Velog link](https://velog.io/@white-jang)
 
-
+<hr>
 <br>
 <div align=center>
 
