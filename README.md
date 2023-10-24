@@ -1,9 +1,6 @@
 ### Hi there! I'm Hayan Jang 👋
 
 🌱 I’m currently studying _JS, React, Vue.js, TypeScript..._  
-😄 Pronouns : _Passion and Fashion_  
-⚡ Fun fact : _in Guangzhou, China 6 years_  
-🦁 Like Lion 8th Member(2020)  
 🕶 More details in Notion! plz check my notion page  
 
 <br>
